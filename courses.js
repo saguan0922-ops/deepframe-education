@@ -5,9 +5,9 @@
 window.DEEPFRAME_COURSES = [
   {
     id: "8c2b329c0a9541d4906668e6e0ba7f4b",
-    title: "샘플 강의",
+    title: "초등 1학년",
     duration: "32분",
-    label: "재생 테스트",
+    label: "초1학년-5,6차시",
     cover: ["#555555", "#111111", "rgba(255,255,255,.38)"]
   },
   { id: "VIDEO_ID_2", title: "2강 제목", duration: "00분", label: "교육영상", cover: ["#35404a","#0d1114","rgba(170,210,255,.35)"] },
