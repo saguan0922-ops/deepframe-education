@@ -6,7 +6,7 @@ import { cookie, verifySession, json } from "../_lib/auth.js";
 */
 const ALLOWED_VIDEO_IDS = new Set([
   "8c2b329c0a9541d4906668e6e0ba7f4b",
-  "a9ad600d13504c9b8f3858b9f4333f35","VIDEO_ID_3","VIDEO_ID_4","VIDEO_ID_5",
+  "a9ad600d13504c9b8f3858b9f4333f35","a7215a410fab40358469bf595550132c","VIDEO_ID_4","VIDEO_ID_5",
   "VIDEO_ID_6","VIDEO_ID_7","VIDEO_ID_8"
 ]);
 
