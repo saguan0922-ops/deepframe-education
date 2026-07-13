@@ -6,7 +6,7 @@ window.DEEPFRAME_COURSES = [
   {
     id: "8c2b329c0a9541d4906668e6e0ba7f4b",
     title: "초등 1학년",
-    duration: "32분",
+    duration: "32분 58초",
     label: "초1학년-5,6차시",
     cover: ["#555555", "#111111", "rgba(255,255,255,.38)"]
   },
